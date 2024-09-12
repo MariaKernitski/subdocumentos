@@ -1,0 +1,20 @@
+{
+  "name": "subdocumentos",
+  "version": "1.0.0",
+  "description": "Como fazer referências utilizando o mongoose.",
+  "main": "src/main.js",
+  "type": "module", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
